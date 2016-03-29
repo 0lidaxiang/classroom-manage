@@ -1,0 +1,1 @@
+a:6:{i:0;s:11:"classroomId";i:1;s:12:"buildingName";i:2;s:5:"floor";i:3;s:10:"roomNumber";s:3:"_pk";s:11:"classroomId";s:5:"_type";a:4:{s:11:"classroomId";s:7:"int(11)";s:12:"buildingName";s:11:"varchar(50)";s:5:"floor";s:11:"varchar(50)";s:10:"roomNumber";s:11:"varchar(50)";}}

@@ -1,0 +1,1 @@
+a:8:{i:0;s:6:"timeId";i:1;s:6:"period";i:2;s:9:"startTime";i:3;s:7:"endTime";i:4;s:7:"weekday";i:5;s:10:"singleOrBi";s:3:"_pk";s:6:"timeId";s:5:"_type";a:6:{s:6:"timeId";s:7:"int(11)";s:6:"period";s:11:"varchar(50)";s:9:"startTime";s:11:"varchar(50)";s:7:"endTime";s:11:"varchar(50)";s:7:"weekday";s:11:"varchar(50)";s:10:"singleOrBi";s:11:"varchar(50)";}}
